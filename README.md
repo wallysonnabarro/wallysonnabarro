@@ -26,6 +26,5 @@
 - 🔭 Hoje Trabalho com back-end
 - 🌱 Tenho ótimo conhecimento em C#, neste momento estou estudando sobre Razor e Blazor
 - 💬 Contate-me no e-mail: wallyson.a3@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Curiosidade: Java
+- ⚡ Curiosidade: Java; Docker; Micro-serviços 
 
