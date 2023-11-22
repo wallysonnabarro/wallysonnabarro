@@ -30,6 +30,5 @@ Este é sem dúvida o meu ambiente favorito, nele minhas ideias são transformad
 
 <div align="center">
   <a href="https://github.com/wallysonnabarro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallysonnabarro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallysonnabarro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
