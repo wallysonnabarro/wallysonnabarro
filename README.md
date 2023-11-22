@@ -1,4 +1,19 @@
-## Olá! Eu sou o Wallyson Alessandro
+<h1> Olá! Eu sou o Wallyson Alessandro 💻</h1>
+
+<div> 
+     <a href = "mailto:wallyson.a3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+     <a href="https://www.linkedin.com/in/wallyson-nabarro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://wa.me/+5561974009080" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ </div>
+
+<h2 align="left">
+Este é sem dúvida o meu ambiente favorito, nele minhas ideias são transformadas em código.
+</h2>
+
+<p>Sou fascinado por código! Desde a minha adolescência, sempre tive afinidade com computadores. Tenho plena convicção de que a tecnologia veio para transformar a maneira como vivemos, oferecendo inúmeras possibilidades para otimizar diversas tarefas. Meu grande sonho é, um dia, poder viver na Irlanda ou Portugal, buscando novas experiências de vida.</p>
+
+<p>Minhas habilidades e conhecimentos</p>
+
 
 <div align="center">
   <a href="https://github.com/wallysonnabarro">
