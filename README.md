@@ -12,7 +12,7 @@ Este é sem dúvida o meu ambiente favorito, nele minhas ideias são transformad
 
 <p>Sou fascinado por código! Desde a minha adolescência, sempre tive afinidade com computadores. Tenho plena convicção de que a tecnologia veio para transformar a maneira como vivemos, oferecendo inúmeras possibilidades para otimizar diversas tarefas. Meu grande sonho é, um dia, poder viver na Irlanda ou Portugal, buscando novas experiências de vida.</p>
 
-<p>Minhas habilidades e conhecimentos</p>
+<p>Minhas habilidades e conhecimentos:</p>
 
 <div align="left">
 
