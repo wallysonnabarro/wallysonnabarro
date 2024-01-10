@@ -16,7 +16,7 @@ Este é sem dúvida o meu ambiente favorito, nele minhas ideias são transformad
 
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=cs,html,css,js,docker,dotnet,git,gitlab,kubernetes,mysql,rabbitmq,visualstudio
+[![Minhas Habilidades](https://skillicons.dev/icons?i=cs,html,css,angular,js,docker,dotnet,git,gitlab,kubernetes,mysql,rabbitmq,visualstudio
 )](https://skillicons.dev)
 
 </div>
