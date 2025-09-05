@@ -1,4 +1,4 @@
-<h1> Olá! Eu sou o Wallyson Alessandro 💻</h1>
+<h1> Olá! Eu sou o Wallyson Lopes 💻</h1>
 
 <div> 
      <a href = "mailto:wallyson.a3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
